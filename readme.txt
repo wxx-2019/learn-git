@@ -5,4 +5,5 @@ Git tracks changes instead of files.
 Creating a new branch is quick and simple.
 Adding merge.
 Adding merge without no-off.
+Testing the no-off option.
 
