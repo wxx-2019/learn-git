@@ -6,4 +6,4 @@ Creating a new branch is quick and simple.
 Adding merge.
 Adding merge without no-off.
 Testing the no-off option.
-
+Git is a free software.
