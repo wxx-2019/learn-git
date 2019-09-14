@@ -8,5 +8,6 @@ Adding merge without no-off.
 Testing the no-off option.
 Git is a free software.
 To test git bug.
+To fix bug.
 
 
