@@ -1,0 +1,2 @@
+a = "vulcan"
+print(a)
